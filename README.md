@@ -80,4 +80,3 @@ Mi objetivo es seguir creciendo profesionalmente dentro del área de la tecnolog
 
 Gracias por visitar mi perfil!
 
-Si quieres, también te puedo hacer una **versión más aesthetic/coquette en tonos rosas** 🌸 o una versión **más seria y profesional tipo estudiante de UNAM**, con badges, estadísticas de GitHub e iconos para que solo copies y pegues el código.
